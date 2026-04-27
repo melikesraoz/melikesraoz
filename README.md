@@ -18,8 +18,11 @@
 ##  Tech Stack
 
 
-  <p align="center">
-  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=react,angular,ts,js,python,java,nodejs,fastapi,postgres,neo4j,docker,git" />
+<p>
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=react,angular,ts,js,python,java,nodejs,fastapi,postgres,docker,git" />
+</p>
+<p>
+  <img alt="Neo4j badge" src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
 </p>
 
 
