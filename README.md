@@ -23,14 +23,6 @@
 
 ---
 
-##  Selected Projects
-
-- **Smart Waste Collection & Route Optimization**
-- **KG-Infused Multi-Hop Question Answering**
-- **WebSnap Builder**
-- **SmartRacket**
-
----
 
 ##  Contact
 
