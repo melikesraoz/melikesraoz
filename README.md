@@ -17,9 +17,11 @@
 
 ##  Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,python,java,nodejs,fastapi,postgres,neo4j,docker,git" />
+
+  <p align="center">
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=react,angular,ts,js,python,java,nodejs,fastapi,postgres,neo4j,docker,git" />
 </p>
+
 
 ---
 
