@@ -27,7 +27,7 @@
 ##  Contact
 
 - **Email:** melikesraozz@gmail.com
-- **LinkedIn:** [melike-esra-oz](https://www.linkedin.com/in/melike-esra-oz)
+- **LinkedIn:** [melike-esra-oz]([LinkedIn](https://www.linkedin.com/in/melike-esra-oz))
 
 <!--
 **melikesraoz/melikesraoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
