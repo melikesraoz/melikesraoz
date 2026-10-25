@@ -1,47 +1,33 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-header-light.svg">
-  <img alt="Melike Esra Öz — thoughtful interfaces, connected ideas." src="./assets/profile-header-dark.svg" width="100%">
-</picture>
+# Hi there, I'm Melike Esra Öz 👋
 
-<p align="center">
-  <strong>Computer Engineer · Frontend &amp; Full-Stack Development</strong><br>
-  Akdeniz University graduate · Türkiye
-</p>
+**Computer Engineer & Software Developer**  
+🎓 *B.Sc. in Computer Engineering @ Akdeniz University (100% English)* · 📍 *Antalya, Türkiye*  
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/melike-esra-oz) · [Email (melikesraozz@gmail.com)](mailto:melikesraozz@gmail.com) · [GitHub](https://github.com/melikesraoz)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/melike-esra-öz">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:melikesraozz@gmail.com">Email</a>
-</p>
+### 🚀 About Me
 
-I build web applications, connect interfaces to APIs, and explore knowledge graphs and retrieval-augmented generation (RAG). I enjoy turning complex ideas into clear, usable software.
+I'm a Computer Engineering graduate building scalable **Full-Stack Web Applications**, **Knowledge Graph & RAG pipelines**, and **Gameplay Systems**.
 
-## Selected work
+- 💼 **Recent Experience:** Software Development Intern @ **Revlo.ai** (Next.js, TypeScript, B2B SaaS workflows & Market Intelligence integrations) & Software Engineering Intern @ **Talya Bilişim A.Ş.** (React, Node.js, dynamic WebSnap Builder)
+- 🧠 **AI & Data Engineering:** Designed multi-hop Knowledge Graph RAG pipelines (**Neo4j + Wikidata5M**) and algorithmic route optimization systems (**OSRM, Nearest Neighbor TSP & 2-opt**)
+- 🎮 **Game Development:** Exploring **Unity & C#** gameplay programming and interactive system architecture
+- 🌱 **Focus:** Clean architecture, strict TypeScript, end-to-end type safety, and data-driven software systems
 
-### [MusicKG-QA ↗](https://github.com/melikesraoz/kg-multihop-qa-turkish-music)
+### 🛠️ Tech Stack & Tools
+[https://skillicons.dev/icons?i=ts,js,py,cs,java,react,nextjs,angular,tailwind,nodejs,fastapi,postgres,mongodb,unity,docker,git]
 
-Multi-hop question answering over a Turkish music knowledge graph, with graph-guided retrieval, an evaluation workflow, and a presentation dashboard.
-
-`Python` `Neo4j` `RAG`
-
-### [Evently ↗](https://github.com/melikesraoz/evently-app)
-
-A React and TypeScript interface for an event platform, with event, user, and reporting screens.
-
-`React` `TypeScript` `Material UI`
-
-## Tools I work with
-
-| Area | Technologies |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Frontend** | React · Angular · TypeScript · JavaScript |
-| **Backend & data** | Python · FastAPI · Node.js · Java · PostgreSQL · Neo4j |
-| **Development** | Git · Docker |
+| **Languages & Core** | `TypeScript` · `JavaScript` · `Python` · `C#` · `Java` |
+| **Frontend & UI** | `React` · `Next.js` · `Angular` · `Tailwind CSS` · `React Query` · `React Hook Form / Zod` · `HTML5 / SCSS` |
+| **Backend & APIs** | `Node.js` · `FastAPI` · `Next.js Server Actions` · `RESTful APIs` · `JWT` |
+| **Databases & AI** | `PostgreSQL` · `Neo4j (Knowledge Graphs)` · `MongoDB` · `RAG Pipelines` · `Cypher` |
+| **Game Dev, IoT & DevOps** | `Unity` · `Docker` · `MinIO` · `ESP32 & Embedded Sensors` · `Git & GitHub` · `DBeaver` |
 
-## Currently exploring
+### 🏆 Featured Engineering Projects
 
-- Graph-based AI and RAG workflows.
-- Testing with Vitest and building small game prototypes.
-
-<!-- Profile artwork lives in assets/ and supports both light and dark themes. -->
+| Project | Tech Stack | Key Highlights |
+| :--- | :--- | :--- |
+| **🎵 MusicKG-QA: KG-Infused RAG** | `Python` · `Neo4j` · `Wikidata5M` · `Cypher` · `LLMs` | Multi-hop question-answering pipeline combining spreading activation and Knowledge Graph query expansion; achieved **60% Exact Match** (**+76.5% relative improvement** over Vanilla RAG). |
+| **🚛 Smart Waste Route Optimization** | `FastAPI` · `React` · `PostgreSQL` · `Leaflet` · `OSRM` | Full-stack smart campus waste management platform featuring analytical dashboards and threshold-based route optimization via **Nearest Neighbor TSP** & **2-opt** heuristics. |
+| **🎾 SmartRacket IoT** | `ESP32` · `C/C++` · `Embedded Sensors` · `IoT` | Sensor-integrated smart tennis racket prototype engineered to capture and analyze real-time stroke telemetry. |
